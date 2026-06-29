@@ -1,0 +1,42 @@
+
+.head{
+    color: rgb(0, 0, 255);
+}
+.red{
+    color: #fa0202;
+}
+#bglime{
+    background-color: aqua;
+}
+body{
+    background-color:rgb(247, 195, 51);
+}
+p{
+    color: #f5f3f3;
+}
+#para{
+    color: green;
+    font-size: x-large;
+}
+#p2{
+    color: black;
+    
+}
+ul li:nth-child(1) a{
+    color: white;
+    background-color: red;
+}
+
+ul li:nth-child(2) a{
+    color: rgb(101, 7, 233);
+    background-color: rgb(244, 252, 24);
+}
+
+ol li:nth-child(2) {
+    color: rgb(61, 13, 237);
+}
+
+ol li:nth-child(3) {
+    color: rgb(106, 234, 238);
+    
+}
